@@ -1,0 +1,88 @@
+/********************Tag Selectors*****************/
+
+body {
+    background-color: #F5F7F8;
+}
+
+
+
+
+
+
+/********************Class Selectors*****************/
+.container1 {
+    width: 500px;
+    position: relative;
+    left: 250px;
+    top: 250px;
+
+}
+.heading1{
+    color: #1877F2;
+    font-family: Helvetica;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+.heading2{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    
+}
+
+
+.container2 {
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 200px;
+    right: 250px;
+    padding: 25px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.input-email {
+    width: 450px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    padding: 12px 20px;
+
+}
+.input-password {
+    margin-top: 15px;
+    width: 450px;
+    height: 50px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    padding: 12px 20px;
+}
+.login-button {
+    margin-top: 15px;
+    width: 490px;
+    height: 60px;
+    background-color: #1877F2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: larger;
+    font-weight: bold;
+}
+.forgot {
+    margin-top: 15px;
+}
+.create-button {
+    margin-top: 15px;
+    width: 250px;
+    height: 60px;
+    background-color: #42b72a;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
